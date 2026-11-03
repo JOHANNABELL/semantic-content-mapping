@@ -97,12 +97,7 @@ Python · pandas · NumPy · scikit-learn (K-means, silhouette) · SciPy (comple
 - [ ] Configuration file for business families and axes
 - [ ] Smoke tests
 
-## Limits
 
-- K is fixed by hand: no k reached strict stability (ARI ≥ 0.80); themes overlap.
-- A 2D map distorts distances: an empty area is **not** a content gap (gaps come from the classification grid).
-- The threshold and labels were validated on small hand-labelled samples (65 pairs, 80 articles).
-- High similarity does not prove identical search intent: results are leads to review, not verdicts.
 
 ## Responsible use
 
