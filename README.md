@@ -108,13 +108,21 @@ Python · pandas · NumPy · scikit-learn (K-means, silhouette) · SciPy (comple
 
 Respect the terms of use and `robots.txt` of the sites you collect, keep request rates low, and prefer an export from your CMS when available.
 
-## My role
+## Team and my role
 
-<!-- To fill in: what you personally designed, coded and decided. -->
+| Contributor | |
+|---|---|
+| **[YOUR NAME]** | **Steps 1, 2 and 3**: collection and cleaning, vectorization (bge-m3), classification (K-means themes, business axes, UMAP map) |
+| Yi WU | Contributor |
+| Maxime Haas | Contributor |
+| Mamadou Bobo Diallo | Contributor |
+| Yanis CHOUKI | Contributor |
+
+Coach: **Alexis Bigo Simon**.
 
 ## Acknowledgements
 
-Mars Information Services France (tutor: Nicolas Arbona Casado, Sr. Lead Analytics & Performance) and Alsace Tech for the AI Autumn School.
+Thanks to our coach **Alexis Bigo Simon**, to Mars Information Services France (tutor: Nicolas Arbona Casado, Sr. Lead Analytics & Performance) and to Alsace Tech for the AI Autumn School.
 
 ## License
 
