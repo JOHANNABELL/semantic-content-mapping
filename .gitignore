@@ -1,0 +1,23 @@
+# Données et résultats (jamais versionnés)
+data/*
+!data/README.md
+outputs/*
+!outputs/.gitkeep
+*.zip
+*.npy
+*.xlsx
+*.csv
+
+# Secrets
+.env
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+# Calcul
+numpy
+pandas
+scipy
+scikit-learn
+umap-learn
+# Vectorisation (BAAI/bge-m3)
+torch
+sentence-transformers
+# Collecte et extraction (mars_carte_urls.ipynb)
+requests
+beautifulsoup4
+trafilatura
+openpyxl
+# Affichage
+plotly
+jupyter
+# Facultatif : méthodes de téléchargement de secours
+# curl_cffi
+# playwright
