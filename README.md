@@ -107,7 +107,7 @@ Respect the terms of use and `robots.txt` of the sites you collect, keep request
 
 | Contributor | |
 |---|---|
-| **[YOUR NAME]** | **Steps 1, 2 and 3**: collection and cleaning, vectorization (bge-m3), classification (K-means themes, business axes, UMAP map) |
+| **MBASSI FELICIA** | **Steps 1, 2 and 3**: collection and cleaning, vectorization (bge-m3), classification (K-means themes, business axes, UMAP map) |
 | Yi WU | Contributor |
 | Maxime Haas | Contributor |
 | Mamadou Bobo Diallo | Contributor |
